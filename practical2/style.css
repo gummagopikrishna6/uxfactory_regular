@@ -1,0 +1,13 @@
+.login
+{
+  border: 1px solid coral;  
+}
+.formlabels
+{
+    padding:5px;
+}
+#name, #pwd, #email
+{
+margin: 2px;
+}
+
